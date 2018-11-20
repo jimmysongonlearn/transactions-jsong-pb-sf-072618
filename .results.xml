@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.348"><testcase classname="test.index_test.TxTest" file="test/index_test.py" line="6" name="test_parse_version" time="0.0019805431365966797"></testcase></testsuite>
